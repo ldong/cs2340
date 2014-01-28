@@ -7,7 +7,7 @@ This course focuses on enhancing the student’s understanding of core object-or
 
 ###PROJECT Description:
  
-J2EE Web Application project (JSP)
+Building an e-commerce for farmers to swap seeds and farming information by using J2EE Web Application project (JSP)
 
 
 Credits:
